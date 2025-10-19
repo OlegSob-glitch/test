@@ -12,5 +12,5 @@ func main() {
 	fmt.Printf("Hello, %s! from first_app\n", *name)
 
 	// Вывод текущего времени
-	fmt.Println("Current time:", time.Now())
+	fmt.Println("Current time:", time.Now().Format("15:04:05"))
 }
