@@ -16,4 +16,6 @@ func main() {
 
 	// Вывод текущей датыs
 	fmt.Println("Current date:", time.Now().Format("02.01.2006"))
+
+	
 }
