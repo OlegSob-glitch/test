@@ -188,4 +188,5 @@ func main() {
 
 		fmt.Println("Weather:", getWeather())
 	}
+
 }
